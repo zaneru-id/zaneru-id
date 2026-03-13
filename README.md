@@ -17,5 +17,3 @@
 ![Bahasa Populer](https://github-readme-stats.vercel.app/api/top-langs/?username=zaneru-id&layout=compact&theme=radical&hide_border=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=zaneru-id&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
